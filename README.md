@@ -5,4 +5,4 @@ fork of ipify.org , that let you not only look IP from cmd , but read from .txt 
 Just donwload **ShowIP.exe**!
 For launch, click or use **cmd.exe**
 
-details at 'ShowIP.exe --help'
+details at `ShowIP.exe --help`
